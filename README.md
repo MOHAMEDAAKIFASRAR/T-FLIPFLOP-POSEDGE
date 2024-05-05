@@ -38,10 +38,11 @@ Step 5: Run simulation to get the output.
 Step 6: Open in RTL viewers to get RTL diagram output
 
 **PROGRAM**
-Developed by :Abinaya A
 
-Regno:212223040003
 ```
+Developed by : MOHAMED AAKIF ASRAR S
+Regno:212223240088
+
 module T_FLIPFLOP( input clk, rst_n, input t,
 output reg q,
 output q_bar
